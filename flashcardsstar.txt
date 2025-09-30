@@ -1,0 +1,29 @@
+1- Courage: Situation?|Witnessed a colleague using excessive force during an arrest. Flip to see Task.
+2- Courage: Task?|Ensure ethical standards are upheld. Flip to see Action.
+3- Courage: Action?|Calmly intervened, reminded the colleague of proportionate force guidelines, and reported the incident to a supervisor per protocol. Flip to see Result.
+4- Courage: Result?|The situation de-escalated, the colleague was retrained, and team trust in ethical standards increased. Move to next scenario.
+
+5- Respect & Empathy: Situation?|Responded to a domestic abuse call where the victim was visibly upset. Flip to see Task.
+6- Respect & Empathy: Task?|Provide reassurance and support. Flip to see Action.
+7- Respect & Empathy: Action?|Listened actively without interrupting, used calm and clear communication, and signposted the victim to local support services. Flip to see Result.
+8- Respect & Empathy: Result?|The victim felt heard, trusted the police, and engaged with support services. Move to next scenario.
+
+9- We Analyse Critically: Situation?|Investigated a series of local burglaries with limited leads. Flip to see Task.
+10- We Analyse Critically: Task?|Identify suspects and prevent further crimes. Flip to see Action.
+11- We Analyse Critically: Action?|Reviewed CCTV footage, cross-referenced witness statements, and identified a pattern in entry methods, leading to targeted patrols. Flip to see Result.
+12- We Analyse Critically: Result?|A suspect was apprehended, and burglary rates in the area decreased. Move to next scenario.
+
+13- SYP Integrity: Situation?|A community member offered a gift to overlook a minor offense. Flip to see Task.
+14- SYP Integrity: Task?|Uphold ethical standards. Flip to see Action.
+15- SYP Integrity: Action?|Politely declined the gift, explained the importance of impartiality, and processed the offense per guidelines. Flip to see Result.
+16- SYP Integrity: Result?|The community member respected the transparency, and my actions reinforced public trust in policing. Move to next scenario.
+
+17- Victim Support: Situation?|Encountered an elderly resident distressed after a scam. Flip to see Task.
+18- Victim Support: Task?|Provide reassurance and prevent further victimization. Flip to see Action.
+19- Victim Support: Action?|Listened empathetically, explained protective measures, and referred them to victim support services. Flip to see Result.
+20- Victim Support: Result?|The resident felt supported, adopted safety measures, and trusted police assistance. Move to next scenario.
+
+21- Adaptability: Situation?|Assigned to a new shift pattern using unfamiliar body-worn camera technology. Flip to see Task.
+22- Adaptability: Task?|Maintain operational effectiveness. Flip to see Action.
+23- Adaptability: Action?|Studied the camera manual, sought colleague advice, and practiced during quieter shifts. Flip to see Result.
+24- Adaptability: Result?|Mastered the technology, ensured compliance, and adapted seamlessly to the schedule. Move to next scenario.
