@@ -1,26 +1,28 @@
-1- What are the 3 CVF values I’ll be assessed on?|Courage, Respect & Empathy, Public Service.
-2- What does Courage mean in the CVF?|Act rightly in challenging situations, even with personal risk; speak up against wrongdoing and support colleagues.
-3- What does Respect & Empathy mean in the CVF?|Treat people with dignity, show compassion, value diversity; adapt communication to individual needs.
-4- What does Public Service mean in the CVF?|Serve the public, use powers lawfully, reflect on actions to improve outcomes, act in society’s best interest considering diverse needs.
-5- What are the 3 CVF competencies I’ll be assessed on?|We Are Emotionally Aware, We Support & Inspire, We Analyse Critically.
-6- What does We Are Emotionally Aware mean at Level 1?|Recognize emotions in self/others, build rapport, manage stress, show sensitivity, reflect on impact.
-7- What does We Support & Inspire mean at Level 1?|Help/motivate others to develop, share knowledge, recognize achievements, foster inclusivity.
-8- What does We Analyse Critically mean at Level 1?|Use evidence/logic for decisions, gather info, identify patterns, consider perspectives.
-9- What are the 3 SYP FIT values?|Fairness, Integrity, Trust.
-10- What does Fairness mean in SYP FIT?|Act fairly, no favoritism, care for each other, deliver family-desired service.
-11- What does Integrity mean in SYP FIT?|Make honest decisions, do right even if hard, tackle challenges with courage, be transparent.
-12- What does Trust mean in SYP FIT?|Build relationships with openness, take responsibility, act inclusively, challenge for improvement.
-13- What are the primary roles of a Police Constable?|Protect public, prevent crime, maintain order; respond to incidents, investigate, enforce, support victims/communities, handle court/admin duties.
-14- What are key responsibilities of a Police Constable?|Respond to 999/101 calls, patrol, gather intelligence, collect evidence, arrest suspects, reassure victims, give court evidence, complete paperwork.
-15- Why is a Police Constable’s day varied?|Mix of high-pressure responses (e.g., pursuits) and proactive community work (e.g., school visits).
-16- What qualities are essential for a Police Constable?|Resilience, courage, empathy, communication, analytical thinking, teamwork, physical/ethical fitness, adaptability.
-17- What skills are essential for a Police Constable?|Build rapport, de-escalate, assess risks, collaborate, motivate, use tech, learn continuously.
-18- What should I include in my 5-minute presentation?|Overview (1-2 mins), responsibilities (2 mins), qualities/skills (1 min); link to CVF, show passion.
-19- What are current UK policing challenges?|Staff shortages, financial struggles, cybercrime rise, mental health crises, budget shortfall (£1B by 2027), violent crime, trust erosion.
-20- What are SYP priorities?|Tackle crime/anti-social behavior, protect vulnerable, build community trust, victim-led services, safer streets.
-21- What is Positive Action in policing?|Lawful support for under-represented groups (e.g., mentoring) to increase diversity, not discrimination.
-22- What is the STAR method?|Situation (context), Task (challenge), Action (what you did), Result (outcome).
-23- What types of examples should I use?|Work, voluntary work, sport, education; avoid personal life, aim for 5 minutes.
-24- What should I avoid in responses?|Memorizing, acronyms, jargon; ensure clarity for the panel.
-25- What SYP-specific research should I do?|Check southyorkshire.police.uk for local priorities (e.g., violence against women, community cohesion) and PEEL Assessment 2023-2025.
-26- What general tips should I follow?|Mock interviews, time everything, stay updated on policing news, show passion for public service.
+1- What is the Competency and Values Framework (CVF) for Policing?|A summary of 3 values and 6 competencies for policing, starting with descriptions and explanations of why they are important, providing context for workplace expectations.
+2- What are the 3 values in the CVF?|Courage, Public Service, Respect and Empathy.
+3- What are the 6 competencies in the CVF?|We Analyse Critically, We Are Emotionally Aware, We Are Innovative and Open-Minded, We Support and Inspire, We Collaborate, We Take Ownership.
+4- What is Courage in the CVF?|Doing the right thing in challenging situations, even when it involves personal risk or discomfort; example: Speak up against wrongdoing and support colleagues facing difficulties.
+5- What is Public Service in the CVF?|Selfless commitment to the community; act in society's best interest, enhancing safety and wellbeing, considering diverse histories and trauma.
+6- What is Respect and Empathy in the CVF?|Treating people with dignity, showing compassion, and valuing diversity; example: Listen without judgment and adapt communication to individual needs.
+7- What is We Support & Inspire in the CVF Level 1?|Help and motivate others to develop, fostering a positive team environment; examples: Share knowledge with new team members, recognize achievements, encourage inclusive participation.
+8- What is We Are Emotionally Aware in the CVF Level 1?|Recognize your own emotions and those of others to build rapport and manage stress; examples: Show sensitivity in interactions with upset individuals, reflect on how your actions impact others.
+9- What is We Analyse Critically in the CVF Level 1?|Use evidence and logic to solve problems and make informed decisions; examples: Gather relevant information, identify patterns in data, consider multiple perspectives before acting.
+10- What is the SYP Values Framework?|FIT: Fairness (acting consistently without favoritism or discrimination, caring for each other), Integrity (making honest decisions and upholding ethical standards), Trust (building confidence through transparency and reliability), supported by 12 behaviors.
+11- What are the behaviors for Fairness in SYP FIT?|We do not tolerate unfairness; act with consistency and without favouritism or discrimination; care about each other and show it in our actions; deliver a service we would want our family to receive.
+12- What are the behaviors for Integrity in SYP FIT?|We make decisions honestly and with integrity; do the right thing, not the easy thing; tackle complex challenges with courage; we are transparent and accountable.
+13- What are the behaviors for Trust in SYP FIT?|We build trusting relationships by being open and honest; take responsibility for our actions; act in ways that demonstrate respect and inclusivity; challenge the process for continuous improvement.
+14- What is the structure of the Police Constable interview?|Structured questions on competencies and values, plus a 5-minute presentation on roles, responsibilities, qualities, and skills.
+15- What are the primary duties of a UK Police Constable?|Protecting the public, preventing crime, and maintaining order.
+16- What does responding to incidents involve for a Police Constable?|Attending emergency (999) and non-emergency (101) calls to provide immediate support, secure scenes, and ensure public safety.
+17- What does crime prevention and detection involve for a Police Constable?|Patrolling communities, conducting stop-and-searches, and gathering intelligence to deter criminal activity.
+18- What does investigations involve for a Police Constable?|Collecting evidence, taking witness statements, interviewing suspects, and preparing reports or files for the Crown Prosecution Service.
+19- What does arrests and enforcement involve for a Police Constable?|Detaining individuals suspected of offenses, using proportionate force when necessary, and processing at custody suites.
+20- What does victim and community support involve for a Police Constable?|Offering reassurance to vulnerable people, signposting services for victims of crime, and building partnerships with local residents and agencies to foster trust.
+21- What does court and administrative duties involve for a Police Constable?|Giving evidence in court, completing paperwork, and participating in training or briefings.
+22- What makes a Police Constable's day varied?|Mix of high-pressure responses (e.g., domestic incidents or pursuits) and proactive community work (e.g., school visits or neighborhood meetings).
+23- What is resilience and courage for a Police Constable?|Handling stressful situations calmly and acting decisively under pressure.
+24- What is empathy and communication for a Police Constable?|Building rapport with diverse communities, listening actively, and de-escalating conflicts.
+25- What is analytical thinking for a Police Constable?|Assessing risks quickly and making evidence-based decisions.
+26- What is teamwork and leadership for a Police Constable?|Collaborating with colleagues while motivating others in dynamic environments.
+27- What is physical and ethical fitness for a Police Constable?|Maintaining operational readiness and upholding integrity in all actions.
+28- What is adaptability for a Police Constable?|Embracing shift work, technology (e.g., body-worn cameras), and ongoing learning.
