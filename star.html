@@ -152,7 +152,7 @@
         // If no "|", treats the whole line as question, answer as "Think about it!"
         // Supports multiple sides per card for STAR method (e.g., Situation|Task|Action|Result)
         // Ignores leading numbers like "1- "
-        fetch('flashcards.txt')
+        fetch('flashcardsstar.txt')
             .then(response => response.text())
             .then(data => {
                 const lines = data.trim().split('\n');
